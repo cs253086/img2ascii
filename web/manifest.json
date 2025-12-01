@@ -1,6 +1,6 @@
 {
-    "name": "image2ascii",
-    "short_name": "image2ascii",
+    "name": "img2ascii",
+    "short_name": "img2ascii",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

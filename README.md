@@ -24,7 +24,7 @@ A Flutter mobile application that converts images to ASCII art. Select an image 
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd image2ascii
+cd img2ascii
 ```
 
 2. Install dependencies:
