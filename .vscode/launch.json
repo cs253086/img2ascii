@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "Flutter (Linux)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "deviceId": "linux"
+    },
+    {
+      "name": "Flutter (Android)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "deviceId": "android"
+    },
+    {
+      "name": "Flutter (All Devices)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    }
+  ]
+}
+
