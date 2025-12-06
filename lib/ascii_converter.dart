@@ -3,12 +3,6 @@ import 'dart:typed_data';
 import 'package:image/image.dart' as img;
 
 class AsciiConverter {
-  // Extended character set with many gradations for better contrast distinction
-  // Characters ordered by visual density/brightness (darkest to lightest)
-  // Using 90+ characters for fine-grained brightness mapping
-  static const String _detailedChars = 
-      '\$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,"^\'`. ';
-  
   // Ultra-detailed character set with maximum gradations (100+ characters)
   // Includes many more characters and symbols for even finer contrast distinction
   // This provides more brightness levels for better text readability
